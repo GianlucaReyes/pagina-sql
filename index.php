@@ -22,7 +22,7 @@
 	
 	<br>
 	<br>
-
+/*esto no es necesario solo fue un ejemplo, igual el archivo select.php omitanlo pero es decision suya xD*/
 <form method="post" action="select.php">
 	<label for="select_option">Selecciona una opción:</label>
 	<select id="select_option" name="select_option">
